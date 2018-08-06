@@ -11,3 +11,19 @@ https://www.advancedwebranking.com/
 
 CSS
 <p style="margin-top:40px;"></p>
+<img src ="주소 or 이름" width="크기"> - src, width는 속성(순서는 상관 없음)
+<li></li>리스트
+<ul><ul>리스트의 부모(리스트를 줄바꿈춤)
+
+ex)<ul>
+	<li>
+	</li>
+   </ul>
+
+<ol><li></li></ol>-숫자를 표시함
+<meta charset="utf-8">-utf-8로 문자를 읽음
+<body></body>-본문을 묶음
+<head></head>-body를 묶음
+<html></html>-최상위의 묶음
+<!doctype html>-html 상위에 관용적으로 적어줌
+<title></title>-제목
