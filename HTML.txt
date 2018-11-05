@@ -2,7 +2,7 @@ https://seomal.org
 thenounproject.com
 https://unsplash.com
 
-//내가 만든것을 다운받아내는 사이트
+//내가 만든것을 다운받아내는 사이트,내가 배운것을 정리하기
 
 Hello World
 
